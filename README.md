@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **antoine-guillou/antoine-guillou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoine-guillou)](https://github.com/antoine-guillou/github-readme-stats)
